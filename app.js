@@ -43,7 +43,7 @@ const getWeather = () => {
         } else if (status.id === 800) {
             photo.setAttribute("src", "./img/sun.jpg");
         } else if (status.id >= 801 && status.id < 900) {
-            photo.setAttribute("src", "./img/cloud.jpg");
+            photo.setAttribute("src", "./img/clouds.jpg");
         } else {
             photo.setAttribute("src", "./img/error.jpg");
         }

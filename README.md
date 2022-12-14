@@ -1,6 +1,6 @@
 # wheather_app
 
-##Build with:
+## Build with:
 - HTML
 - CSS
 - JS
